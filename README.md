@@ -4,8 +4,7 @@ Solo Systems
 
 ## Team Members and Roles
 
-Ahmad Alhadab
-
+[Ahmad Alhadab](https://github.com/ahmadalhadab/CIS641-HW2-Alhadab)
 
 ## Prerequisites
 
